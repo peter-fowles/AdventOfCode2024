@@ -1,4 +1,3 @@
-from random import shuffle
 
 def is_ordered(update, ordering):
     visited = set()
