@@ -1,4 +1,3 @@
-import re
 
 def part1(filename):
     rows = []
